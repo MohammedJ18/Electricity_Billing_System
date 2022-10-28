@@ -1,5 +1,5 @@
 # Electricity Billing System
-# To run the project you need to creat database named "electricity"
+- To run the project you need to creat database named "electricity"
 # and create tables:
  # login(meter_no varchar(20), username varchar(30), name varchar(30), password varchar(30), user varchar(30))
  # customer(name varchar(30), meter varchar(20), address varchar(50), email varchar(30), phone varchar(20))
